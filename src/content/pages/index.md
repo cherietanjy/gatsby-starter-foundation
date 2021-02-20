@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Cherie Tan
 tagline: Fintech Leader. Personal Finance Geek.
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/cherie-tan.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
