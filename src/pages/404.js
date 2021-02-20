@@ -17,7 +17,7 @@ const NotFound = () => (
           color: "var(--primary-color)"
         }}/>
         <h1>Oops we did not expect that to happen</h1>
-        <p>Have you wondered into the unknow. Let us help you, Please take a look at below options</p>
+        <p>You've wondered into the unknown. Hmm. Please do me a favour. Copy the URL in the search bar, and send me a message at cherietan.com/contact.</p>
       </header>
       <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Back to Homepage</Link>
       <Link to="/contact" className="button -outline">Report this <RiBugLine className="icon -right"/></Link>
