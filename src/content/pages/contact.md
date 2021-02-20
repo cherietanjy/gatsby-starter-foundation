@@ -3,4 +3,4 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
-📧 Email me.
+Got a burning question about personal finance or property? Feel free to drop me a message ☺️
