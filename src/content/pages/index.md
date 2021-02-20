@@ -8,6 +8,6 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-CSM®/CFP®/ MFA / WMWC / ARIA
+**CSM®/ AWS CLOUD PRACTITIONER /CFP®/ MFA / WMWC / ARIA**
 
 Hello! 👋 I'm a true tech and personal finance geek. My full time job involves consulting with large, international banks on software and cloud while my passion projects revolve around personal finance (see Honeybee Podcast 🐝). Being a Certified Financial Planner, I enjoy sharing unbiased, grounded personal finance tips.
