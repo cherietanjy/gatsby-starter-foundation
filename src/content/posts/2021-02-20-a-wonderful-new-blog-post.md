@@ -16,15 +16,11 @@ It was always thought that, as you diversify your investments (e.g: owning stock
 
 ![Risk and Return Image](/assets/risks-and-return-cherie-tan-1.png "Zero risk eventually..?")
 
-
-
 However, there's no free lunch in this world.
 
 ## No Free Lunch
 
 **There is a limit to diversification of your investment portfolio in the context of risk reduction.** Even if you diversify as much as humanly possible, the law of diminishing returns will kick in: You'd have to face increased costs of transaction, spend more time and energy monitoring your portfolio and the different sectors/industries/companies, etc.
-
-
 
 ## Defining 'Risk': Introducing Systematic and Unsystematic Risk
 
@@ -66,8 +62,6 @@ This is the minimum risk that investors assume when they enter and participate i
 
 Hence, when you look into diversifying your portfolio, keep in mind the minimum risk you assume (the systematic risks) when you enter the stock market. 
 
-
-
 ## Enough talk about Risk. How about Returns?
 
 Now that we've established the difference between unsystematic and systematic risks, let's talk about returns. You've probably heard of the phrase, "High Risk, Higher Returns", which associates risks to returns in an overly simplified manner. It assumes that by taking on higher risk securities, you will likely receive higher returns on your investment. If you're a fledgling investor or have little to no finance background, this would sound like an appealing investment opportunity. After all, who wouldn't want higher returns on their investments?
@@ -105,8 +99,6 @@ This theory was based on two main concepts:
 
 The efficient frontier is a curved line because **every increase in risk results in a relatively *smaller* amount of returns.** *(recall we mentioned law of diminishing returns for higher diversification on your portfolio?)* In other words, there is a diminishing marginal return to risk, and it results in a curvature.
 
-
-
 ## A Practical Example
 
 *Hypothetical returns and factors are used in all my examples for educational purposes.*
@@ -128,8 +120,6 @@ If, instead of buying Virgin Airways with Singapore Airlines stocks, you bought 
 As such, Portfolio B would have the same level of returns but lower risk compared to Portfolio A. On the graph, here is where portfolio A and portfolio B lie:
 
 ![Efficient Frontier Portfolio A and Portfolio B](/assets/risks-and-return-cherie-tan-7.png "Efficient Frontier Portfolio A and Portfolio B")
-
-
 
 The efficient frontier is the foundation for modern portfolio theory, and it helps investors understand the potential risks and returns in their portfolios. It also helps investors analyze how they compare to optimal portfolios that are considered to be efficient, to be used as a benchmark for investing strategies. 
 
