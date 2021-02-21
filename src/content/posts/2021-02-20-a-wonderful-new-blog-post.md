@@ -3,7 +3,7 @@ template: blog-post
 title: Risks and Returns - Explained
 slug: /risks-and-returns-explained
 date: 2021-02-20 11:21
-description: Test
+description: Defining Risks and Return in an Investment Portfolio.
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---
 A long, long time ago, way [before the first computer mouse was invented](https://www.techradar.com/news/world-of-tech/6-technologies-to-thank-the-1960s-for-650980), investments were seen and understood in a very linear and simplistic way: *What returns would I get for accepting certain levels of risks?*
@@ -74,15 +74,15 @@ As I've described earlier, there is always a level of risk you assume when you e
 
 Earlier, we talked about the ancient way of relating risks to returns in a simple linear relationship. Thankfully, this is not the model we rely on today. In the 1950's, a brilliant man named Markowitz took all the securities in the market and measured the relationship of its returns to its risk, one at a time. The first time he did it, the plot on the graph probably looked like this:
 
-![Plotting Returns to Risk](/assets/risks-and-return-cherie-tan-3.png "Plotting Returns to Risk for individual securities")
+![Plotting Returns to Risk](/assets/risks-and-return-cherie-tan-one-security.png "Plotting Returns to Risk for individual securities")
 
 Then, each security was then paired with a second security, forming a plot of portfolios that included only two securities:
 
-![Plotting Returns to Risk for a Portfolio of Two Securities](/assets/risks-and-return-cherie-tan-4.png "Plotting Returns to Risk for a Portfolio of Two Securities")
+![Plotting Returns to Risk for a Portfolio of Two Securities](/assets/risks-and-return-cherie-tan-two-securities.png "Plotting Returns to Risk for a Portfolio of Two Securities")
 
 Then, he added a third security to each portfolio:
 
-![Plotting Returns to Risk for a Portfolio of Three Securities](/assets/risks-and-return-cherie-tan-5.png "Plotting Returns to Risk for a Portfolio of Three Securities")
+![Plotting Returns to Risk for a Portfolio of Three Securities](/assets/risks-and-return-cherie-tan-three-securities.png "Plotting Returns to Risk for a Portfolio of Three Securities")
 
 And so on, and so forth.. until he realized that these portfolios, as more securities are added to them, they tended to fall onto what seemed like a curve.
 
