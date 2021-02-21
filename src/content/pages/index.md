@@ -10,4 +10,4 @@ cta:
 ---
 **CSM®/ AWP-CFP®/ MFA / WMWC / ARIA**
 
-Hello! 👋 I'm a true tech and personal finance geek. My full time job involves consulting with large, international banks on software and cloud while my passion projects revolve around personal finance (see Honeybee Podcast 🐝). Being a Certified Financial Planner, I enjoy sharing unbiased, grounded personal finance tips.
+Hello! 👋 I'm a true tech and personal finance geek. My full time job involves consulting with large, international banks on software and cloud while my passion projects revolve around personal finance (see [Honeybee Podcast ](https://anchor.fm/honeybee-podcast)🐝).As a certified Associate Wealth Planner *(AWP-CFP®)*, I enjoy sharing unbiased, grounded personal finance tips.
