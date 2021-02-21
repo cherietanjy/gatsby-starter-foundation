@@ -14,7 +14,7 @@ In this article, I'll be briefly describing the concept of risk and return, and 
 
 It was always thought that, as you diversify your investments (e.g: owning stocks in different industry sectors), your risk level could go all the way down to...possibly zero, while achieving some level of return. At least that was what this linear relationship would assume.
 
-![Risk and Return Image](/assets/risks-and-return-cherie-tan-1.png "Zero risk eventually..?")
+![Risk and Return Image](/assets/Risks-and-Return-Cherie-Tan-1.png "Zero risk eventually..?")
 
 However, there's no free lunch in this world.
 
@@ -54,7 +54,7 @@ As its name suggests, these risks are systematic. Unlike unsystematic risks wher
 
 Systematic risk is the inherent risk that comes along with investing in the stock market. They are categorized by risk factors that simply cannot be helped. Since unsystematic risks are s unavoidable, the chances are high that investors will *eventually* take a hit due to systematic risk at one time or another. After all, wars, weather events, and natural disasters happen.
 
-![Risk and Return: Minimum Risk](/assets/risks-and-return-cherie-tan-2.png "Systematic Risks is the Minimum Risk Present In The Stock Market")
+![Risk and Return: Minimum Risk](/assets/Risks-and-Return-Cherie-Tan-2.png "Systematic Risks is the Minimum Risk Present In The Stock Market")
 
 ## The Minimum Risk Assumed
 
@@ -74,19 +74,19 @@ As I've described earlier, there is always a level of risk you assume when you e
 
 Earlier, we talked about the ancient way of relating risks to returns in a simple linear relationship. Thankfully, this is not the model we rely on today. In the 1950's, a brilliant man named Markowitz took all the securities in the market and measured the relationship of its returns to its risk, one at a time. The first time he did it, the plot on the graph probably looked like this:
 
-![Plotting Returns to Risk](/assets/risks-and-return-cherie-tan-one-security.png "Plotting Returns to Risk for individual securities")
+![Plotting Returns to Risk](/assets/Risks-and-Return-Cherie-Tan-One-Security.png "Plotting Returns to Risk for individual securities")
 
 Then, each security was then paired with a second security, forming a plot of portfolios that included only two securities:
 
-![Plotting Returns to Risk for a Portfolio of Two Securities](/assets/risks-and-return-cherie-tan-two-securities.png "Plotting Returns to Risk for a Portfolio of Two Securities")
+![Plotting Returns to Risk for a Portfolio of Two Securities](/assets/Risks-and-Return-Cherie-Tan-Two-Securities.png "Plotting Returns to Risk for a Portfolio of Two Securities")
 
 Then, he added a third security to each portfolio:
 
-![Plotting Returns to Risk for a Portfolio of Three Securities](/assets/risks-and-return-cherie-tan-three-securities.png "Plotting Returns to Risk for a Portfolio of Three Securities")
+![Plotting Returns to Risk for a Portfolio of Three Securities](/assets/Risks-and-Return-Cherie-Tan-Three-Securities.png "Plotting Returns to Risk for a Portfolio of Three Securities")
 
 And so on, and so forth.. until he realized that these portfolios, as more securities are added to them, they tended to fall onto what seemed like a curve.
 
-![Plotting Returns to Risk for a Portfolio of Many Securities](/assets/risks-and-return-cherie-tan-6.png "Plotting Returns to Risk for a Portfolio of Many Securities")
+![Plotting Returns to Risk for a Portfolio of Many Securities](/assets/Risks-and-Return-Cherie-Tan-6.png "Plotting Returns to Risk for a Portfolio of Many Securities")
 
 **This grey line is eventually known as the Efficient Frontier line.** It is represented by plotting the **expected returns of a portfolio** and **the standard deviation of returns (aka: risks)**
 
