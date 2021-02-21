@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: A Wonderful New Blog Post
-slug: /test
+title: Risks and Returns - Explained
+slug: /risks-and-returns-explained
 date: 2021-02-20 11:21
-description: test
+description: Test
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---
 Test
