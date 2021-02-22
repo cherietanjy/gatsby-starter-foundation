@@ -80,9 +80,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
-        start_url: `/`,
+        name: `Cherie Tan Website`,
+        short_name: `Cherie Tan Website`,
+        start_url: `www.cherietan.com`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
