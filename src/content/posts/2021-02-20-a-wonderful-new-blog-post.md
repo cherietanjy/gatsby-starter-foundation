@@ -14,7 +14,7 @@ In this article, I'll be briefly describing the concept of risk and return, and 
 
 It was always thought that, as you diversify your investments (e.g: owning stocks in different industry sectors), your risk level could go all the way down to...possibly zero, while achieving some level of return. At least that was what this linear relationship would assume.
 
-![Risk and Return Image](/assets/Risks-and-Return-Cherie-Tan-1.png "Zero risk eventually..?")
+![Risk and Return Image](/assets/risk-return-1.png "Zero risk eventually..?")
 
 However, there's no free lunch in this world.
 
