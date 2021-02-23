@@ -26,7 +26,7 @@ Here's an easy way to understand the purpose of SIBOR and how it is used in the 
 First, understand that the global banking system follows a fractional reserve model. This means banks don't actually have 100% of the deposits which bank customers like you and I put in them, since most of the monies are already lent out as loans.
 
 ### "What?!"
-Hang in there buddy, relax. Fret not. This is where SIBOR steps in. If namks face liquidity issues (cash shortage), banks can borrow from <i>another</i> bank at the SIBOR rate. 
+Hang in there buddy, relax. Fret not. This is where SIBOR steps in. If banks face liquidity issues (cash shortage), banks can borrow from <i>another</i> bank at the SIBOR rate. 
 
 The SIBOR rate is also used for home loans that you and I are familiar with.
 
