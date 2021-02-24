@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Cherie Tan
-tagline: Fintech Leader. Personal Finance Geek.
+tagline: Personal Finance Geek.
 featuredImage: /assets/cherie-tan.jpg
 cta:
   ctaText: Know more
