@@ -4,7 +4,7 @@ title: True Cost of Stashaway and Endowus - A Deep Dive
 slug: /true-cost-stashaway-endowus
 date: 2021-02-24 11:21
 description: Diving Deep(er) Into the Comparison of Costs of Stashaway and Endowus.
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/blogheader/pexels-skitterphoto-12619.jpg
 ---
 Disclaimer: This non-sponsored article is updated as of 24 Feburary 2021. Do note that the information provided by Cherie Tan serves as an educational piece and does not constitute an offer or solicitation to buy or sell any investment product(s). It does not take into account the specific investment objectives, financial situation or particular needs of any person. Readers should always do their own due diligence and consider their financial goals before investing in any investment product(s).
 

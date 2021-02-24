@@ -4,7 +4,7 @@ title: SIBOR, SOR, SORA and Home Loans in Singapore - Explained
 slug: /sibor-sor-sora-home-loans
 date: 2021-02-23 11:21
 description: What are SIBOR, SOR, and SORA Rates and How It Affects My Home Loan in Singapore.
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/blogheader/pexels-max-vakhtbovych-6284230.jpg
 ---
 When it comes to buying your first home, you'll probably have to secure a home loan. Currently, the types of home loans you're probably familiar with are the Fixed and Floating rates. However, as you would have already noticed, there are floating rates like the SIBOR pegged floating rates and the SOR pegged floating rates. In 2020 / 2021, you would have likely learned about the SORA rates as well.
 
