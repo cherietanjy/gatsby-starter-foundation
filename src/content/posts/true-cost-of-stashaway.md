@@ -57,7 +57,9 @@ Both Stashaway and Endowus display their fees very clearly.
     </tr>
 </thead>
 </table>
-[Stashaway Pricing](https://www.stashaway.sg/pricing)
+Stashaway Pricing Table, https://www.stashaway.sg/pricing
+
+
 
 <h4>Endowus (Cash Only)</h4>
 <table>
@@ -84,11 +86,11 @@ Both Stashaway and Endowus display their fees very clearly.
     </tr>
 </thead>
 </table>
-[Endowus Pricing](https://www.endows.com/pricing)
+Endowus Pricing Table: https://www.endows.com/pricing
 
 
+While both roboadvisors also claim that they do not have any hidden charges or fees, I still attempted to dig a little (a lot) deeper into the fee structure, and managed to find nuggets of information on **additional charges that are not included / not displayed as clearly as the fees** in the table of fees you see displayed on both Endowus and Stashaway’s pricing page.
 
-While both roboadvisors also claim that they do not have any hidden charges or fees, I still attempted to dig a little (a lot) deeper into the fee structure, and managed to find nuggets of information on **additional charges that are not included / not displayed as clearly as the fees** in the table of fees you see displayed on both Endowus and Stashaway’s pricing page**.
 
 ## Not so hidden, hidden fees:
 
@@ -97,12 +99,14 @@ Notice the * I’ve placed next to the word “additional” on Stashaway’s pr
 Stashaway works with what they call "stacked pricing". 
 
 **Here's how Stacked Pricing works:**
+
 Your first $25,000 is managed at 0.8%. This works out to be $200. Anything above that is charged not at 0.8%, but 0.7%. 
 So, for example, if you have $30,000 held in Stashaway, your fees are **not actually 0.7% of $30,000** = $210.
 Your fees would work out to be:
 $200 (0.8% of $25,000) + (0.7% of the amount above $25,000, which is $30,000-$25,000=$5,000 = $35) =**$235**. This is what is known as "Stacked" pricing and it is the pricing structure that Stashaway currently uses.
 
 **Here's how Tiered Pricing works:**
+
 For Endowus, it's pretty clear cut: with Tiered pricings, your pricing levels are entirely dependent upon which investment amount band you fall into. 
 For example, if you had an investment value of $200,001, you would pay 0.50% in Fees for that entire amount, and **not 0.60% on the first S$200,000 and 0.50% on $1** (aka Stacked Pricing).
 
@@ -112,13 +116,16 @@ When it comes to investing, it is always our top priority to keep costs as low a
 
 #### Stashaway's ETF Transaction Prices
 When ETFs are traded in the market, it incurs the following:
+
 •	transaction fees and 
+
 •	the implicit bid-ask spread fees (the fee if you sell at the bid or buy at the ask)
 
 ETFs also carry the annual expense ratio (used to pay the ETF fund management and operating costs). For ETFs charge, on average, have an expense ratio of 0.15%-0.25%. This is charged over the course of the year, in the form of adjustments to the Net Asset Value.
 This is not an actual cash flow borne by you. It is offset by the ETF funds before distributing the returns back to you. This expense ratio is incurred regardless of what platform you use to purchase ETFs.
 
 **“Why aren’t these fees mentioned on the website?”**
+
 In fact, they are mentioned on the pricings page of Stashaway’s website. You’ll see it right under the pricings table and in Stashaway’s FAQs.
 These fees are fees which you do not explicitly pay for. They are already accounted for in your returns on your investment. In other words, these fees are deducted from the value of your assets (hence, you do not see these fees classified as “fees payable”).
 
@@ -130,7 +137,7 @@ Unit trusts also incur trailer fees. Trailer fees are paid by fund managers to d
 
 
 
-### 3. Currency Conversion Charges Exist too!
+### 4. Currency Conversion Charges Exist too!
 Stashaway boasts ETFs from all over the world – particularly the ones in the US. This means that they have to be purchased in US Dollars. When a trade is executed in a foreign currency, you will expect that your currency will first be converted from a non-USD currency to the USD currency, thus incurring a small foreign-exchange fee on your transaction.
 
 Other than incurring the fee, you’re also exposed to currency risks due to the SGD-USD currency exposure: this refers to the potential losses that an international financial transaction may incur due to currency fluctuations (changes in value of the currency). 
