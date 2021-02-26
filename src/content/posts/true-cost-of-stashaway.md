@@ -154,6 +154,20 @@ Investing in US securities (stocks, bonds, ETFs) will expose you to US tax regul
 
 Endowus, on the other hand, boasts a variety of Irish-domiciled funds, which unlike the US-domiciled securities and ETFs, are more tax optimized for the typical Singaporean investor, making them an attractive choice.
 
+### Updates - 26th February 2021: Transaction Fees
+The key question: "Will I be charged each time I top up my portfolios on Stashaway / Endowus?
+
+#### Stashaway:
+As per Stashaway's statement on their platform's transaction fees:
+<i>There are no charges for deposits. However, if you are depositing into a USD denominated portfolio (i.e. our General Investing or Goal-based Investing), the currency conversion fee of 0.08% charged by our broker will apply.</i>
+
+#### Endowus
+As per Endowus' statement on their platform's transaction fees:
+<i>There are no transactional charges for top ups via Cash and SRS. However, every buy or sell transaction placed with Endowus for CPF will incur a $2 to $2.50 agent bank charge.
+</i>
+
+Of course, while these sound great, let's remember that roboadvisors are still relatively novel and terms are subject to potential changes in the future.
+
 ## Summary
 Some concluding thoughts: Personally, like I've mentioned before, I'm a happy customer of both platforms. I love the flexibility of both platforms in that it gives me the freedom to select the types of securities I'll have in my portfolio, without the looming large costs and effort required in tracking. 
 
