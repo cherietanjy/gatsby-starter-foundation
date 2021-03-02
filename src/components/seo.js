@@ -84,7 +84,7 @@ const query = graphql`
       siteMetadata {
         defaultTitle: title
         titleTemplate
-        defaultDescription: description
+        defaultDescription: "Cherie Tan is a Senior BankTech Consultant with a Passion for Personal Finance. As an accredited Certified Financial Planner (CFP), she shares grounded and unbiased personal finance tips."
         siteUrl: siteUrl
         defaultImage: image
         twitterUsername
