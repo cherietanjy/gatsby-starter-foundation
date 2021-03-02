@@ -14,7 +14,7 @@ There are no right or wrong answers, and you're usually encouraged to follow you
 
 In a previous blog post of mine, I introduced the relationship between Risk and Return [(read it here!)](https://www.cherietan.com/risks-and-returns-explained). However, how we quantify risk is subject to our own experiences (or the lack of). Although the key to successful investing lies in understanding your risk appetite and managing your risks appropriately, a simple questionnaire will not be able to capture the nuances of your risk preferences. A series of questions will not accurately prepare you for the gains and losses that your investments may incur.
 
-The first time I encountered a risk profile questionnaire was way before I even understood anything about the financial markets. It was a strange concept to me back then that a stock brokerage would make financial product recommendations based on a series of pre-set questions and answers. Click here to view samples of such questionnaires.
+The first time I encountered a risk profile questionnaire was way before I even understood anything about the financial markets. It was a strange concept to me back then that a stock brokerage would make financial product recommendations based on a series of pre-set questions and answers. 
 
 ## Risk Profile Questionnaires Need to Evolve, Too.
 
