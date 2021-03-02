@@ -21,7 +21,7 @@ Comments: The minimal investment factor may be an inhibitor for young, fresh gra
 Both Stashaway and Endowus display their fees very clearly. 
 
 <h4>Stashaway</h4>
-<table>
+<table border="1" id="cssTable">
   <thead>
     <tr>
       <th colspan="2" rowspan="1"><p>Total Investment (SGD)</p></th>
@@ -62,7 +62,7 @@ Stashaway Pricing Table, https://www.stashaway.sg/pricing
 
 
 <h4>Endowus (Cash Only)</h4>
-<table>
+<table border="1" id="cssTable">
   <thead>
     <tr>
       <th colspan="2" rowspan="1"><p>Total Investment (SGD)</p></th>
