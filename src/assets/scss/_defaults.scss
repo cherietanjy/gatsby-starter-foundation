@@ -11,6 +11,7 @@ body {
 body {
 	font-family: var(--font-family);
 	font-size: 18px;
+	text-align: justify;
 }
 code {
 	font-family: var(--font-family-mono);
@@ -24,4 +25,31 @@ a {
 	&:hover {
 		color: var(--home-link-hover-color);
 	}
+}
+
+b
+{
+    color: ##7a3f96;
+}
+
+i
+{
+    color: ##7a3f96;
+}
+
+h2
+{
+    color: ##7a3f96;
+}
+
+td 
+{
+    height: 50px; 
+    width: 50px;
+}
+
+#cssTable td 
+{
+    text-align: center; 
+    vertical-align: middle;
 }
